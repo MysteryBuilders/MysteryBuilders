@@ -1,75 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Elshwehy&fontSize=50&fontAlignY=35&desc=Senior%20Mobile%20Developer%20|%20Flutter%20•%20Android%20•%20iOS%20|%20PMP®%20•%20PMI-ACP®&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Mohammed%20Elshwehy&fontSize=50&fontAlignY=35&desc=Senior%20Mobile%20Architect%20%7C%20Flutter%20%E2%80%A2%20Android%20%E2%80%A2%20iOS%20%E2%80%A2%20PMP%C2%AE&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=11%2B+Years+Mobile+Engineering+Experience;Flutter+Architecture+Expert+%7C+Clean+Architecture;Government+%26+Enterprise+Mobile+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=11%2B+Years+Enterprise+Mobile+Engineering;Flutter+Architecture+%7C+Government+Platforms;Building+Mission-Critical+Mobile+Systems" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://mysterybuilders.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge)](mailto:eng.melshwehy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elshwehy/)
-[![Location](https://img.shields.io/badge/📍_Kuwait-A855F7?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge)](https://mysterybuilders.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-elshwehy/)
+[![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge)](mailto:eng.melshwehy@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+# Executive Summary
 
-Senior Mobile Engineer with **11+ years experience** delivering **enterprise-grade and government mobile platforms** across Flutter, Android, and iOS ecosystems.
+Senior Mobile Architect with **11+ years building enterprise and government platforms** across Flutter, Android, and iOS ecosystems.
 
-I specialize in:
+I specialize in **scalable architecture, mobile platform modernization, and mission-critical government systems**.
 
-- Large-scale Flutter architecture (Clean Architecture, BLoC, Riverpod)
-- Government and enterprise digital transformation apps
+Key strengths:
+
+- Enterprise Flutter architecture design
+- Government digital transformation platforms
 - Mobile security hardening & architecture review
-- Pixel-perfect UI implementation from Figma
-- High-reliability production deployments and CI/CD pipelines
-- Agile project leadership (PMP® + PMI-ACP®)
+- Large-scale production delivery leadership
+- Agile + PMP® program execution
 
 ---
 
-## Core Expertise
+# Engineering Impact
 
-| Area | Capabilities |
-|------|-------------|
-| Mobile Engineering | Flutter, Kotlin, Swift, scalable production architectures |
-| Architecture | Clean Architecture, SOLID, BLoC/Cubit, Riverpod |
-| Security | OWASP MASVS, SSL Pinning, reverse engineering testing |
-| Delivery | CI/CD (Fastlane, GitHub Actions), store release pipelines |
-| Project Leadership | Government IT delivery, stakeholder management |
+| Area | Impact |
+|------|-------|
+| Government Platforms | Delivered mission-critical systems for Ministry of Awqaf & Islamic Affairs |
+| Enterprise Delivery | Led architecture and development of healthcare & enterprise mobile platforms |
+| Architecture Leadership | Designed scalable Flutter architecture frameworks used across multiple products |
+| Security | Conducted enterprise mobile security assessments and hardening strategies |
+| Delivery | Led full lifecycle delivery from architecture → deployment → operations |
 
 ---
 
-## Government & Enterprise Platforms Delivered
+# Flagship Platforms
 
-- Quran Exam Platform (Ministry of Awqaf)
-- Khotab Platform (Islamic Affairs)
+**Government & Enterprise Platforms Delivered**
+
+- Quran Exam Platform — Ministry of Awqaf
+- Khotab Platform — Islamic Affairs
 - Awqaf Gate Government Services
 - Q8Seha Healthcare Platform
 - Yarmouk Health City Systems
 
 ---
 
-## Tech Stack
+# Core Technical Domains
 
-**Mobile**
-Flutter • Android Kotlin • Java • Swift • Objective-C
+**Mobile Platforms**
+
+- Flutter (Advanced Architecture)
+- Android (Kotlin / Java)
+- iOS (Swift / Objective-C)
 
 **Architecture**
-Clean Architecture • BLoC • Riverpod • MVVM • DI
 
-**Backend / Services**
-Firebase • REST APIs • Maps • Payments • Offline storage
+- Clean Architecture
+- BLoC / Riverpod
+- Enterprise-scale modular architectures
+- SOLID / scalable maintainability patterns
 
-**Security**
-OWASP MASVS • MobSF • Frida • Burp Suite • SSL Pinning
+**Security & Delivery**
 
-**DevOps**
-GitHub Actions • Fastlane • Play Console • App Store Connect
+- OWASP MASVS
+- SSL Pinning
+- Mobile reverse engineering testing
+- CI/CD pipelines (Fastlane / GitHub Actions)
 
 ---
 
-## Certifications
+# Certifications
 
 - PMP® — Project Management Professional
 - PMI-ACP® — Agile Certified Practitioner
@@ -77,25 +84,25 @@ GitHub Actions • Fastlane • Play Console • App Store Connect
 
 ---
 
-## Availability
+# Professional Focus
 
-Open for:
+Currently focused on:
 
-- Senior Flutter Engineering Roles
-- Mobile Architecture Consulting
-- Government / Enterprise Projects
-- Contract / Remote / On-site
+- Mobile Platform Architecture Leadership
+- Enterprise Flutter Transformation Programs
+- Government Digital Platforms
+- Senior Engineering Leadership Roles
 
 ---
 
-## Contact
+# Contact
 
-- Portfolio: https://mysterybuilders.github.io/portfolio/
-- Email: eng.melshwehy@gmail.com
-- LinkedIn: linkedin.com/in/mohammed-elshwehy
+Portfolio: https://mysterybuilders.github.io/portfolio  
+LinkedIn: https://www.linkedin.com/in/mohammed-elshwehy  
+Email: eng.melshwehy@gmail.com
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer"/>
 </div>
