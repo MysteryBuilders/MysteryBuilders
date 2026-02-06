@@ -24,7 +24,7 @@
 
 ```yaml
 name: Mohammed Elshwehy
-location: Kuwait 🇰🇼
+location: Kuwait 🇰🇼 (Originally from Egypt 🇪🇬)
 current_role: Senior Mobile Analyst @ ZAK Solutions
 experience: 11+ Years Mobile Development | 6+ Years Flutter
 education: B.Sc. Computer Engineering - Tanta University, Egypt
@@ -34,23 +34,29 @@ certifications:
   - PMI-ACP® (Agile Certified Practitioner)
   - PMI-RMP® (Risk Management Professional) # Planned
 
-specializations:
+core_expertise:
   - Flutter Cross-Platform Development (Advanced)
-  - Native Android (Kotlin/Java)
-  - Native iOS (Swift/Objective-C)
-  - Pixel-Perfect UI from Figma
-  - Mobile App Security & Hardening
+  - Native Android (Kotlin/Java) & iOS (Swift/Obj-C)
+  - Pixel-Perfect UI Implementation from Figma
+  - Mobile Application Security Analysis & Hardening
   - Clean Architecture & SOLID Principles
+  - REST API Integration & Backend Coordination
+
+project_management:
+  - Government IT Project Delivery (5+ Years)
+  - Agile/Scrum Team Leadership
+  - Risk Assessment & Stakeholder Communication
+  - WBS, Scope Documents & Technical Proposals
 
 industries_served:
-  - 🏛️ Government
-  - 🏢 Enterprise
-  - 🏥 Healthcare
-  - 💰 Fintech
-  - 📚 Education
-  - 🚚 Logistics
+  - 🏛️ Government (Ministry of Awqaf, Islamic Affairs)
+  - 🏥 Healthcare (Q8Seha, Yarmouk Health City)
+  - 💰 Fintech & E-Commerce
+  - 🎓 Education & Sports Platforms
+  - 🚚 Logistics & Transportation
 
-availability: Open to Full-time | Part-time | Contract | Remote | On-site
+languages: Arabic (Native) | English (Fluent)
+availability: Open to Full-time | Contract | Remote | On-site
 ```
 
 ---
@@ -71,26 +77,34 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 ### 🏗️ Architecture & State Management
 ![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=for-the-badge&logo=dart&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt_DI-00B4D8?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4ECDC4?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-FFE66D?style=for-the-badge&logoColor=black)
 
 ### 🔥 Backend & Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit_/_Dio-48B983?style=for-the-badge)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive_DB-FFDD00?style=for-the-badge&logoColor=black)
 
-### 🔒 Security Tools
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### 🔒 Security & Analysis
+![OWASP](https://img.shields.io/badge/OWASP_MASVS-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge)
 ![Frida](https://img.shields.io/badge/Frida-FF6B6B?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-0D47A1?style=for-the-badge)
+![APK Reverse](https://img.shields.io/badge/APK_Reverse_Eng.-333?style=for-the-badge)
 
 ### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📋 Project Management
 ![PMP](https://img.shields.io/badge/PMP®_Certified-FFE66D?style=for-the-badge&logoColor=black)
@@ -98,6 +112,24 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 ![Agile](https://img.shields.io/badge/Agile-00D4FF?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I Bring to the Table
+
+<div align="center">
+
+| Area | Highlights |
+|:----:|:-----------|
+| 📱 **Flutter Expert** | 6+ years building production apps with Clean Architecture, BLoC, Riverpod — pixel-perfect UIs from Figma at scale |
+| 🏛️ **Government Projects** | 5+ years delivering mission-critical apps for Kuwait's Ministry of Awqaf & Islamic Affairs (Dawami, Mosques, Portals) |
+| 🔒 **Security Specialist** | Mobile app security assessments using MobSF, Frida, Burp Suite — SSL pinning bypass, API hardening, vulnerability reports |
+| 📋 **PMP® + PMI-ACP®** | Full project lifecycle management — WBS, scope docs, risk registers, stakeholder communication, Agile delivery |
+| 🌐 **RTL/LTR Bilingual** | Native Arabic + English apps with full RTL layout support, dynamic locale switching, culturally adapted UX |
+| 🔗 **API Integration** | 52+ REST endpoint integrations per project — Magento, custom backends, payment gateways (MyFatoorah, K-NET) |
 
 </div>
 
@@ -109,17 +141,61 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 
 | App | Description | Tech | Links |
 |:---:|:------------|:----:|:-----:|
-| <img src="https://play-lh.googleusercontent.com/5WWNwLfH5hlLZZl8-rb_V9g1hfVsJPpG8KZLSVNmFoJ7AjmK2yPo0NyCtUJALgXAjmUc=w48-h48" width="40"/> | **Crane** - Vehicle transportation & car-carrier services | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.krane) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/crane/id6711355509) |
-| <img src="https://play-lh.googleusercontent.com/X65awikLUFhLZqjRZxz9dgp-eU-Gumv39Zj_zu78X5lvj1NUr3u_1lZXXNGxDDqa81c=w48-h48" width="40"/> | **MY ACAD** - Sports academies & tournaments platform | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.my_academy) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/my-acad/id6468953190) |
-| <img src="https://play-lh.googleusercontent.com/n5nFC4WWCwP60fZKXfsxJDV5KSUL64o12-Chjvr-6l5RB4YV_DOvfptF7bExdsU42A=w48-h48" width="40"/> | **Point** - Football predictions & competitive entertainment | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.point) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/point/id6444777774) |
-| <img src="https://play-lh.googleusercontent.com/JFmpIWel6XNkf-0lFaHyR-FD3SiKMv5bhl9txUa_jeMNZW_3C92q5l93Vm7nBsTmrNGF8Jc2XV27486poV6Kcg=w48-h48" width="40"/> | **Dabbirny** - Family activities discovery platform | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.dabbirny_app) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/dabbirny/id1445434937) |
-| <img src="https://play-lh.googleusercontent.com/T9Nljdrv4cxd45rE1To-Qp8yFWneeLpjrSXFJQEPYi8sQ3EMMz7MjGGtmQ-j59_YnTU=w48-h48" width="40"/> | **Coeo** - Gaming & PC shopping e-commerce | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createkw.coeo) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/coeo-app/id6739816818) |
-| 🏥 | **Q8Seha** - Healthcare platform with medical services | Android | Enterprise |
-| 🕌 | **Awqaf Gate** - Government ministry services portal | Android | Government |
+| <img src="https://play-lh.googleusercontent.com/5WWNwLfH5hlLZZl8-rb_V9g1hfVsJPpG8KZLSVNmFoJ7AjmK2yPo0NyCtUJALgXAjmUc=w48-h48" width="40"/> | **Crane** — Vehicle transportation & car-carrier services with real-time tracking | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.krane) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/crane/id6711355509) |
+| <img src="https://play-lh.googleusercontent.com/X65awikLUFhLZqjRZxz9dgp-eU-Gumv39Zj_zu78X5lvj1NUr3u_1lZXXNGxDDqa81c=w48-h48" width="40"/> | **MY ACAD** — Sports academies, tournaments & coaching management platform | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.my_academy) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/my-acad/id6468953190) |
+| <img src="https://play-lh.googleusercontent.com/n5nFC4WWCwP60fZKXfsxJDV5KSUL64o12-Chjvr-6l5RB4YV_DOvfptF7bExdsU42A=w48-h48" width="40"/> | **Point** — Football predictions, competitions & competitive entertainment | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.point) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/point/id6444777774) |
+| <img src="https://play-lh.googleusercontent.com/JFmpIWel6XNkf-0lFaHyR-FD3SiKMv5bhl9txUa_jeMNZW_3C92q5l93Vm7nBsTmrNGF8Jc2XV27486poV6Kcg=w48-h48" width="40"/> | **Dabbirny** — Family activities, events & kids entertainment discovery | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.dabbirny_app) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/dabbirny/id1445434937) |
+| <img src="https://play-lh.googleusercontent.com/T9Nljdrv4cxd45rE1To-Qp8yFWneeLpjrSXFJQEPYi8sQ3EMMz7MjGGtmQ-j59_YnTU=w48-h48" width="40"/> | **Coeo** — Gaming hardware, PC components & peripherals e-commerce | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createkw.coeo) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/coeo-app/id6739816818) |
+| 🏥 | **Q8Seha** — Healthcare platform: appointments, records & prescriptions | Android | Enterprise |
+| 🕌 | **Awqaf Gate** — Kuwait Ministry of Awqaf services & Islamic affairs portal | Android | Government |
+| 📋 | **Dawami** — Government employee attendance tracking with biometric integration | Flutter | Government |
+| 🕋 | **Kuwait Mosques** — Mosque directory, prayer times & Islamic services | Android | Government |
 
 </div>
 
-> 💡 **See all my work:** [**mysterybuilders.github.io/portfolio**](https://mysterybuilders.github.io/portfolio/)
+> 💡 **Full portfolio with screenshots & case studies:** [**mysterybuilders.github.io/portfolio**](https://mysterybuilders.github.io/portfolio/)
+
+---
+
+## 💼 Professional Journey
+
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│  🟢 Jul 2023 - Present  │  Senior Mobile Analyst & Projects Manager Consultant  │
+│                          │  ZAK Solutions, Kuwait                                │
+│                          │  ▸ Enterprise mobile app analysis & security audits   │
+│                          │  ▸ Government project delivery (Ministry of Awqaf)    │
+│                          │  ▸ Flutter apps: Dawami, Kuwait Mosques Portal        │
+│                          │  ▸ UML/BPMN technical documentation & proposals       │
+│                          │                                                       │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│  🔵 Aug 2020 - Jun 2023  │  Android Developer / BA Consultant                   │
+│                           │  EEMC, Kuwait                                        │
+│                           │  ▸ Government apps: Awqaf Gate, Quran Exam Portal    │
+│                           │  ▸ Flutter & native Android production apps          │
+│                           │  ▸ Business analysis & requirements engineering      │
+│                           │  ▸ Cross-team API coordination with backend teams    │
+│                           │                                                      │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│  🟣 Jan 2019 - Jul 2020  │  Senior Mobile Developer                             │
+│                           │  Advanced Technology Company, Kuwait                 │
+│                           │  ▸ Healthcare: Q8Seha, Yarmouk Health City apps      │
+│                           │  ▸ Secure workflows & role-based access features     │
+│                           │  ▸ REST API integration with hospital systems        │
+│                           │                                                      │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                  │
+│  🟠 Jul 2014 - Dec 2018  │  Senior Android Developer                            │
+│                           │  Ebla Computer Consultancy, Kuwait                   │
+│                           │  ▸ Mosques of Kuwait, Islamic Encyclopedia apps      │
+│                           │  ▸ Biometric attendance & smart systems              │
+│                           │  ▸ Government ministry mobile solutions              │
+│                           │                                                      │
+└──────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -139,49 +215,21 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 
 ---
 
-## 💼 Professional Journey
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  📍 Jul 2023 - Present  │  Senior Mobile Analyst                           │
-│                         │  ZAK Solutions, Kuwait                           │
-│                         │  • Enterprise & Mobile App Analysis              │
-│                         │  • UML/BPMN Technical Solutions                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  📍 Aug 2020 - Jun 2023 │  Android Developer / BA Consultant               │
-│                         │  EEMC, Kuwait                                    │
-│                         │  • Government Apps: Awqaf Gate, Quran Exam       │
-│                         │  • Flutter & Android Production Apps             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  📍 Jan 2019 - Jul 2020 │  Senior Mobile Developer                         │
-│                         │  Advanced Technology Company, Kuwait             │
-│                         │  • Healthcare: Q8Seha, Yarmouk Health City       │
-│                         │  • Secure Workflows & Role-based Features        │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  📍 Jul 2014 - Dec 2018 │  Senior Android Developer                        │
-│                         │  Ebla Consultation, Kuwait                       │
-│                         │  • Mosques of Kuwait, Islamic Encyclopedia       │
-│                         │  • Biometric & Attendance Systems                │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 🎓 Education & Certifications
 
 <div align="center">
 
-| 🏆 Certification | Organization | Status |
-|:---------------:|:------------:|:------:|
-| **PMP®** - Project Management Professional | PMI | ✅ Active |
-| **PMI-ACP®** - Agile Certified Practitioner | PMI | ✅ Active |
-| **PMI-RMP®** - Risk Management Professional | PMI | 🔜 Planned |
+| 🏆 Certification | Organization | Year | Status |
+|:---------------:|:------------:|:----:|:------:|
+| **PMP®** — Project Management Professional | PMI | 2024 | ✅ Active |
+| **PMI-ACP®** — Agile Certified Practitioner | PMI | 2024 | ✅ Active |
+| **PMI-RMP®** — Risk Management Professional | PMI | 2026 | 🔜 Planned |
 
 ---
 
 🎓 **Bachelor of Computer Engineering**  
-*Faculty of Engineering – Tanta University, Egypt*  
-*2007 - 2012*
+*Faculty of Engineering — Tanta University, Egypt*  
+*2007 – 2012*
 
 </div>
 
@@ -192,7 +240,7 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 <div align="center">
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native_Speaker-FF6B6B?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-4ECDC4?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent_(Professional)-4ECDC4?style=for-the-badge)
 
 </div>
 
@@ -207,14 +255,15 @@ availability: Open to Full-time | Part-time | Contract | Remote | On-site
 [![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge)](https://mysterybuilders.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/📧_eng.melshwehy@gmail.com-EA4335?style=for-the-badge)](mailto:eng.melshwehy@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_+965_98921108-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/96598921108)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elshwehy/)
 
 ---
 
-### 🟢 Currently Available
+### 🟢 Currently Available for New Opportunities
 
 **Open to:** Full-time | Part-time | Contract | Remote | On-site
 
-*Typically responds within 24 hours*
+*Based in Kuwait 🇰🇼 — Typically responds within 24 hours*
 
 </div>
 
