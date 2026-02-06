@@ -54,7 +54,7 @@ languages: Arabic (Native) | English (Fluent)
 
 ---
 
-## ⚡ What I Bring (Animated Highlights)
+## ⚡ What I Bring 
 
 <div align="center">
 
@@ -105,7 +105,7 @@ languages: Arabic (Native) | English (Fluent)
 
 ---
 
-## 📱 Featured Apps in Production (Updated)
+## 📱 Featured Apps in Production 
 
 <div align="center">
 
@@ -183,7 +183,7 @@ languages: Arabic (Native) | English (Fluent)
 
 ---
 
-## 📫 Let’s Connect (Animated CTA)
+## 📫 Let’s Connect 
 
 <div align="center">
 
