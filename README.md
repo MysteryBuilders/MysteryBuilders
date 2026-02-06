@@ -1,3 +1,6 @@
+Readme · MD
+Copy
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -146,7 +149,7 @@ availability: Open to Full-time | Contract | Remote | On-site
 | <img src="https://play-lh.googleusercontent.com/n5nFC4WWCwP60fZKXfsxJDV5KSUL64o12-Chjvr-6l5RB4YV_DOvfptF7bExdsU42A=w48-h48" width="40"/> | **Point** — Football predictions, competitions & competitive entertainment | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.point) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/point/id6444777774) |
 | <img src="https://play-lh.googleusercontent.com/JFmpIWel6XNkf-0lFaHyR-FD3SiKMv5bhl9txUa_jeMNZW_3C92q5l93Vm7nBsTmrNGF8Jc2XV27486poV6Kcg=w48-h48" width="40"/> | **Dabbirny** — Family activities, events & kids entertainment discovery | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createq8.dabbirny_app) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/dabbirny/id1445434937) |
 | <img src="https://play-lh.googleusercontent.com/T9Nljdrv4cxd45rE1To-Qp8yFWneeLpjrSXFJQEPYi8sQ3EMMz7MjGGtmQ-j59_YnTU=w48-h48" width="40"/> | **Coeo** — Gaming hardware, PC components & peripherals e-commerce | Flutter | [![Play Store](https://img.shields.io/badge/Play-3DDC84?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.createkw.coeo) [![App Store](https://img.shields.io/badge/iOS-000?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/kw/app/coeo-app/id6739816818) |
-| 🏥 | **Q8Seha** — Healthcare platform: appointments, records & prescriptions | Android | Enterprise |
+| 🏥 | **Q8Seha** — Healthcare platform: appointments, records & prescriptions | Android | Enterprise 🏢 |
 | 🕌 | **Awqaf Gate** — Kuwait Ministry of Awqaf services & Islamic affairs portal | Android | Government |
 | 📋 | **Dawami** — Government employee attendance tracking with biometric integration | Flutter | Government |
 | 🕋 | **Kuwait Mosques** — Mosque directory, prayer times & Islamic services | Android | Government |
@@ -202,14 +205,30 @@ availability: Open to Full-time | Contract | Remote | On-site
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MysteryBuilders&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryBuilders&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MysteryBuilders&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
+<!-- Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MysteryBuilders&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/MysteryBuilders)
+
+<!-- Stats & Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MysteryBuilders&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MysteryBuilders&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=FFFFFF&ring_color=4ECDC4&include_all_commits=true&count_private=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryBuilders&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysteryBuilders&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF&langs_count=8"/>
+</picture>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MysteryBuilders&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideNums=FFFFFF&dates=888888"/>
+  <img src="https://streak-stats.demolab.com?user=MysteryBuilders&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4&sideNums=FFFFFF&dates=888888"/>
+</picture>
 
 <!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MysteryBuilders&bg_color=0d1117&color=4ecdc4&line=ff6b6b&point=ffe66d&area=true&hide_border=true)](https://github.com/MysteryBuilders)
+
+> 💡 *Most of my work is in private enterprise & government repositories — public stats don't reflect full activity.*
 
 </div>
 
